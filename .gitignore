@@ -1,0 +1,4 @@
+.env
+CodeT5/fine_tuned_codet5/model.safetensors
+CodeT5/Error Generation/results/error_summary.csv
+CodeT5/Responses/response.json
